@@ -1,4 +1,4 @@
-# DoWell-Classification-Function
+# DoWell-Classification of Big Data 
 
 Welcome to the Classification API! The Classification API is a comprehensive tool that enables users to classify a large set of data efficiently by using three classification methods which are - 
 1. ```Non-Hierarchial Classification```
